@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @A3x-parvez
+- 👀 I’m interested in creating something new and modify which exist already.
+- 🌱 I’m currently studing computer science engineering (AI & ML)
