@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rijwanoolkarim143r@gmail.com**
 
-- ⚡ Fun fact **I am a introvert person**
+- ⚡ Fun fact **I am an introvert person LOL😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
