@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rijwanool Karim (Parvez)</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.seadn.io/s/raw/files/758fdbdbefebf6c1fd64cae5d08fda59.gif?auto=format&dpr=1&w=1000">
+<img align="right" alt="coding" width="400" src="[image](https://github.com/user-attachments/assets/473e7cb6-643f-4ccc-9ca8-c3178e499a69)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x-parvez&label=Profile%20views&color=0e75b6&style=flat" alt="a3x-parvez" /> </p>
