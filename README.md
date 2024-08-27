@@ -1,6 +1,7 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Rijwanool Karim (Parvez)</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
-![image](https://i.seadn.io/s/raw/files/758fdbdbefebf6c1fd64cae5d08fda59.gif?auto=format&dpr=1&w=1000)
+
 <img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
