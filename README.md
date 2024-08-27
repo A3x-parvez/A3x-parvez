@@ -1,4 +1,5 @@
-![logo](https://github.com/A3x-parvez/A3x-parvez/blob/main/gitbanner1.jpg)
+![logo](https://github.com/A3x-parvez/A3x-parvez/blob/main/gitbanner2.jpg)
+https://github.com/A3x-parvez/A3x-parvez/blob/main/gitbanner1.jpg
 <h1 align="center">Hi 👋, I'm Rijwanool Karim (Parvez)</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 
