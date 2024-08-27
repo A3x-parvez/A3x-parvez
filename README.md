@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.seadn.io/files/758fdbdbefebf6c1fd64cae5d08fda59.gif">
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.seadn.io/files/758fdbd….gif" width="363" height="363">slot
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x-parvez&label=Profile%20views&color=0e75b6&style=flat" alt="a3x-parvez" /> </p>
 
