@@ -47,8 +47,8 @@ $ rijwanoolkarim143r@gmail.com
 - **🌐 I love turning ideas into interactive projects using Python & Streamlit.**
 - **📍 Currently leveling up in autonomous agents and creative AI systems.**
 
-<h2> </h2>
-<h2 align="left">Connect with me :</h2>
+
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/@parvez__404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parvez__404" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rijwanool-karim-89b6b5255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwanool karim" height="30" width="40" /></a>
