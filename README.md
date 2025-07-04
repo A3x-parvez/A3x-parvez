@@ -44,7 +44,7 @@ $ rijwanoolkarim143r@gmail.com
 - **🚀 I’m Rijwanool Karim (Parvez), a CSE student with a passion for AI & ML.**
 - **🧠 I explore LLMs, deep learning, computer vision, and real-time AI apps.**
 - **🎯 Always building and experimenting with futuristic tech stacks.**
-- **🌐 I love turning ideas into interactive projects using Python & Streamlit.**
+- **🌐 I love turning ideas into interactive projects using Tech and Creativity.**
 - **📍 Currently leveling up in autonomous agents and creative AI systems.**
 
 
@@ -55,7 +55,7 @@ $ rijwanoolkarim143r@gmail.com
 <a href="https://stackoverflow.com/users/26464518/rijwanool-karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rijwanool karim" height="30" width="40" /></a>
 <a href="https://facebook.com/rijwanool.karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="par vez" height="30" width="40" /></a>
 <a href="https://instagram.com/par_vez_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="par_vez_04" height="30" width="40" /></a>
-<a href="https://my-portfolio-2-alpha-sandy.vercel.app/" target="blank"><img align="center" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMjE5LzIxOTk3MC5wbmc=&ts=1751050354&sig=2f7037c39366fade330987dc6298e1c44f51e857e3dd152bc53195c6fa0be81a" alt="Rijwanool karim" height="35" width="35" /></a>
+<a href="https://my-portfolio-2-alpha-sandy.vercel.app/" target="blank"><img align="center" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMzMyNC8zMzI0Nzk5LnBuZw==&ts=1751628086&sig=78e3abed2bc42e0cd50643ad1297f8f59b1889414bd8c3dd333ae62cd00e0c59" alt="Rijwanool karim" height="35" width="35" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
