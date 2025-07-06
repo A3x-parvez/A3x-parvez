@@ -50,12 +50,12 @@ $ rijwanoolkarim143r@gmail.com
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/@parvez__404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parvez__404" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rijwanool-karim-89b6b5255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwanool karim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26464518/rijwanool-karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rijwanool karim" height="30" width="40" /></a>
 <a href="https://facebook.com/rijwanool.karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="par vez" height="30" width="40" /></a>
 <a href="https://instagram.com/par_vez_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="par_vez_04" height="30" width="40" /></a>
-<a href="https://my-portfolio-2-alpha-sandy.vercel.app/" target="blank"><img align="center" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMzMyNC8zMzI0Nzk5LnBuZw==&ts=1751628086&sig=78e3abed2bc42e0cd50643ad1297f8f59b1889414bd8c3dd333ae62cd00e0c59" alt="Rijwanool karim" height="35" width="35" /></a>
+<a href="https://stackoverflow.com/users/26464518/rijwanool-karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rijwanool karim" height="30" width="40" /></a>
+<a href="https://twitter.com/@parvez__404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parvez__404" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rijwanool-karim-89b6b5255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwanool karim" height="30" width="40" /></a>
+<a href="https://my-portfolio-2-alpha-sandy.vercel.app/" target="blank"><img align="center" src="online-resume.png" alt="Rijwanool karim" height="40" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
