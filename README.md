@@ -1,4 +1,4 @@
-![image](https://github.com/A3x-parvez/A3x-parvez/blob/main/gitbanner1.jpg)
+![image](https://github.com/A3x-parvez/A3x-parvez/blob/main/Picsart_25-09-16_03-04-52-123.jpg)
 <!--<h1 align="center">Hi 👋, I'm Rijwanool Karim (Parvez)</h1>
 <h3 align="center">A Computer Science Engineer from India</h3> -->
 <!-- ✨ Animated Typing Name Header -->
